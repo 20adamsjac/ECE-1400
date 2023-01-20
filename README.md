@@ -1,0 +1,1 @@
+This repository contains all of the programming assignments I submitted while taking ECE 1400, an introduction to C and programming as a whole. Due to the fact it was the first programming course many people had taken the assignments are simple and there is a strong emphasis on pseudocode and comments to ensure that the intentions of the programmer are clear.
